@@ -1,0 +1,22 @@
+[
+  {
+    "pergunta": "Como validar o título de transporte?",
+    "resposta": "Valide sempre o seu título ao entrar no autocarro usando o validador a bordo."
+  },
+  {
+    "pergunta": "Quais os horários da linha 3?",
+    "resposta": "A linha 3 circula nos dias úteis das 6h00 às 23h00 com intervalos de 20 minutos."
+  },
+  {
+    "pergunta": "Qual o preço do Navegante Metropolitano?",
+    "resposta": "O passe Navegante Metropolitano tem um custo de 40€ por mês e é válido em toda a Área Metropolitana de Lisboa."
+  },
+  {
+    "pergunta": "Onde posso carregar o passe?",
+    "resposta": "Pode carregar o seu passe nas bilheteiras TCB, em postos Payshop ou no multibanco."
+  },
+  {
+    "pergunta": "O que é o Navegante Família?",
+    "resposta": "É um título que permite à família pagar no máximo 80€ mensais, independentemente do número de elementos. Requer inscrição prévia."
+  }
+]
